@@ -3,7 +3,7 @@
 SEM is a Search Engine Master that can use Google, Yahoo, Bing, etc... and gather all the founded links so they can be used for other things.
 This tool can be used for crawling, Black Hat, SEO, etc...
 USE ARE YOUR OWN RISK!!!
-
+<h5>
 usage:&nbsp;sem.py&nbsp;[-h]&nbsp;-d&nbsp;DORK&nbsp;[-p&nbsp;P]&nbsp;[-o&nbsp;O]&nbsp;[-wp&nbsp;WP]&nbsp;[-do]&nbsp;[-ho]&nbsp;[-nor]
 
 SEMaster&nbsp;is&nbsp;a&nbsp;very&nbsp;efective&nbsp;and&nbsp;helpful&nbsp;tool&nbsp;for&nbsp;exploring&nbsp;search&nbsp;engins
