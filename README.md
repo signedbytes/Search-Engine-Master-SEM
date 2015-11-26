@@ -11,13 +11,13 @@ for&nbsp;BlackHat,&nbsp;SEO,&nbsp;exploiting,&nbsp;crwoling...&nbsp;etc.&nbsp;Th
 Yahoo,&nbsp;Ask,&nbsp;Aol,&nbsp;Dogpile,&nbsp;Ixquick,&nbsp;Entirewebs...
 
 optional&nbsp;arguments:
-&nbsp;&nbsp;-h,&nbsp;--help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;show&nbsp;this&nbsp;help&nbsp;message&nbsp;and&nbsp;exit
-&nbsp;&nbsp;-d&nbsp;DORK,&nbsp;--dork&nbsp;DORK&nbsp;&nbsp;dork,&nbsp;query&nbsp;to&nbsp;search
-&nbsp;&nbsp;-p&nbsp;P&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number&nbsp;of&nbsp;pages&nbsp;to&nbsp;search,&nbsp;defualt&nbsp;is&nbsp;1
-&nbsp;&nbsp;-o&nbsp;O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file&nbsp;to&nbsp;save&nbsp;results
-&nbsp;&nbsp;-wp&nbsp;WP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;webapp&nbsp;paths&nbsp;(form,blog,etc),&nbsp;uses&nbsp;with&nbsp;-do
-&nbsp;&nbsp;-do&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get/filter&nbsp;the&nbsp;Domains&nbsp;only&nbsp;(http://site.com/)
-&nbsp;&nbsp;-ho&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get/filter&nbsp;the&nbsp;Hosts&nbsp;only&nbsp;(site.com)
-&nbsp;&nbsp;-nor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;repeat&nbsp;,&nbsp;Defualt&nbsp;True
+&nbsp;&nbsp;<br>-h,&nbsp;--help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;show&nbsp;this&nbsp;help&nbsp;message&nbsp;and&nbsp;exit
+&nbsp;&nbsp;<br>-d&nbsp;DORK,&nbsp;--dork&nbsp;DORK&nbsp;&nbsp;dork,&nbsp;query&nbsp;to&nbsp;search
+&nbsp;&nbsp;<br>-p&nbsp;P&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number&nbsp;of&nbsp;pages&nbsp;to&nbsp;search,&nbsp;defualt&nbsp;is&nbsp;1
+&nbsp;&nbsp;<br>-o&nbsp;O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file&nbsp;to&nbsp;save&nbsp;results
+&nbsp;&nbsp;<br>-wp&nbsp;WP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;webapp&nbsp;paths&nbsp;(form,blog,etc),&nbsp;uses&nbsp;with&nbsp;-do
+&nbsp;&nbsp;<br>-do&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get/filter&nbsp;the&nbsp;Domains&nbsp;only&nbsp;(http://site.com/)
+&nbsp;&nbsp;<br>-ho&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get/filter&nbsp;the&nbsp;Hosts&nbsp;only&nbsp;(site.com)
+&nbsp;&nbsp;<br>-nor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;repeat&nbsp;,&nbsp;Defualt&nbsp;True
 
 &nbsp;Coded&nbsp;by&nbsp;@3Turr
