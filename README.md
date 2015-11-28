@@ -6,7 +6,7 @@ USE ARE YOUR OWN RISK!!!
 <h5>
 usage:&nbsp;sem.py&nbsp;[-h]&nbsp;-d&nbsp;DORK&nbsp;[-p&nbsp;P]&nbsp;[-o&nbsp;O]&nbsp;[-wp&nbsp;WP]&nbsp;[-do]&nbsp;[-ho]&nbsp;[-nor]
 
-SEMaster&nbsp;is&nbsp;a&nbsp;very&nbsp;efective&nbsp;and&nbsp;helpful&nbsp;tool&nbsp;for&nbsp;exploring&nbsp;search&nbsp;engins
+SEM&nbsp;is&nbsp;a&nbsp;very&nbsp;efective&nbsp;and&nbsp;helpful&nbsp;tool&nbsp;for&nbsp;exploring&nbsp;search&nbsp;engins
 for&nbsp;BlackHat,&nbsp;SEO,&nbsp;exploiting,&nbsp;crwoling...&nbsp;etc.&nbsp;This&nbsp;tool&nbsp;uses&nbsp;Google,&nbsp;Bing,
 Yahoo,&nbsp;Ask,&nbsp;Aol,&nbsp;Dogpile,&nbsp;Ixquick,&nbsp;Entirewebs...
 
